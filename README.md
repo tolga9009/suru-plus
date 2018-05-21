@@ -15,7 +15,7 @@
 As you want 24px and 26px icons to be colourful in the panel, and want the dark theme, please visit:
 
 * [Suru++ Lubuntu](https://github.com/suru-plus/suru-plus-lubuntu/)
-* [Suru++ Dark Lubuntu](https://github.com/suru-plus/suru-plus--dark-lubuntu/)
+* [Suru++ Dark Lubuntu](https://github.com/suru-plus/suru-plus-dark-lubuntu/)
 
 ### Installation without CLI
 
