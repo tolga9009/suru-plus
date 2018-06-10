@@ -94,6 +94,9 @@ The contributors is on the file AUTHORS
 
 The changelog is available on the release page in theme's repository.
 
+
+
+
 ## License
 
-GPL3 © Suru++ by Andrea Bonanni and Suru++ Project
+GPL3 © Suru++ by Andrea Bonanni and Suru++ Project.
