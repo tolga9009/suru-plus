@@ -10,20 +10,6 @@
 
 ## Installation
 
-The good news is that, you are no longer required to depend on Sam Hewitt's and other Suru++ packs.
-
-### PPA (Ubuntu and Debian-derived)
-
-The another good news is that, you can say goodbye to non-CLI and CLI instruction, install like a Millennium Falcon. Suru++ Project official PPA is:
-
-```shell
-sudo add-apt-repository ppa:gusbemacbe/ppa
-sudo apt-get update
-sudo apt install suru-plus-pack
-```
-
-The full pack comes with all gifts - Suru++ cursor, GTK and icons themes and wallpapers. Be happy to receive daily updates.
-
 ### For Lubuntu users
 
 As you want 24px and 26px icons to be colourful in the panel, and want the dark theme, please visit:
@@ -94,9 +80,6 @@ The contributors is on the file AUTHORS
 
 The changelog is available on the release page in theme's repository.
 
-
-
-
 ## License
 
-GPL3 © Suru++ by Andrea Bonanni and Suru++ Project.
+GPL3 © Suru++ by Andrea Bonanni.
