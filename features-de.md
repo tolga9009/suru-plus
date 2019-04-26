@@ -16,7 +16,7 @@ Lass den Konservatismus und den Traditionalismus der originalen Suru-Ikonen, ent
 
 ## Redesign der App-Ikonen
 
-Zum Folgen der Raster-Regeln von Sam Hewitt und zum Machen weniger konservative und traditionelle des <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> von <a href="https://github.com/Bonandry">@Bonandry</a>, mehr als 15 tausende Ikonen wurden new entworfen, wurden mit Papirus-Style und mit neuen Cyberpunk-Farben verbessert und mit KDE, XFCE und anderen Umgebungen kompatibel gemacht! Überprüfe die neuen Ikonen:
+Zum Folgen der Gestaltungsraster-Regeln von Sam Hewitt und zum Machen weniger konservative und traditionelle des <a href="https://github.com/Bonandry/suru-plus-ubuntu">Suru++ Ubuntu</a> von <a href="https://github.com/Bonandry">@Bonandry</a>, mehr als 15 tausende Ikonen wurden new entworfen, wurden mit Papirus-Style und mit neuen Cyberpunk-Farben verbessert und mit KDE, XFCE und anderen Umgebungen kompatibel gemacht! Überprüfe die neuen Ikonen:
 
 <p align="center">
   <img alt="Apps" width="465px" src="images/previews/preview1.svg?sanitize=true">
@@ -50,7 +50,7 @@ Die Dateiverwaltungen sind nicht mehr gleich, jetzt kannst du die Dateiverwaltun
 
 ## Exklusive und spezielle Ordner
 
-Nicht nur Cyberpunkismus und Futurismus, bist du auch ein Fan von Scifi-Bereichen und -Filmen, von Astronomie und Luft- und Raumfahrttechnik sowie von Tesla? In der Version 30 ist April der Monat der internationalen Feiertage der Astronauten, der Astronomie, der Luft- und Raumfahrttechnik, der Kosmologie, des ersten Bildes des schwarzen Lochs und der Huldigung an den Film Avengers: Ultimate! Hier ist:
+Nicht nur Cyberpunkismus und Futurismus, bist du auch ein Fan von Scifi-Bereichen und -Filmen, von Astronomie und Luft- und Raumfahrttechnik sowie von Tesla? In der Version 30 ist April der Monat der internationalen Feiertage der Astronauten, der Astronomie, der Luft- und Raumfahrttechnik, der Kosmologie, des ersten Bildes des schwarzen Lochs und der Huldigung an den Film Avengers: Endgame! Hier ist:
 
 <p align="center">
   <img alt="Special Folders" src="images/previews/preview5.svg?sanitize=true">
@@ -208,7 +208,7 @@ Die meisten Session- und Benutzers-Ikonen wurden von [@darcn181](https://github.
     <col style="width: 360px">
   </colgroup>
   <tr>
-    <th>offizieles Ikon<br></th>
+    <th>offizielles Ikon<br></th>
     <th>alternative Ikonen</th>
   </tr>
 
