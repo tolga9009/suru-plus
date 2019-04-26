@@ -66,7 +66,7 @@ Hundreds Steam games icons are supported officially:
 
 ## Solid and Gradient Colours of 16px icons
 
-As Suru++ is officially compatible with with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox) and my plugin [Suru++ Colourise](https://github.com/suru-plus/suru-plus-colourise) with the help and contribution of [@actionless](https://github.com/actionless) and [@SmartFinn](https://github.com/SmartFinn), you can choose one of 9 cyberpunk gradient colours or change any colour of all 16px icons or enable the gradient of 16px icons once for all!
+As Suru++ is officially compatible with [@actionless](https://github.com/actionless)'s [Oomox](https://github.com/themix-project/oomox) and my plugin [Suru++ Colourise](https://github.com/suru-plus/suru-plus-colourise) with the help and contribution of [@actionless](https://github.com/actionless) and [@SmartFinn](https://github.com/SmartFinn), you can choose one of 9 cyberpunk gradient colours or change any colour of all 16px icons or enable the gradient of 16px icons once for all!
 
 In the version 30, as Suru++ is compatible with [@Roboron3042](https://github.com/Roboron3042)'s [Cyberpunk Neon](https://github.com/Roboron3042/Cyberpunk-Neon), it won the new gradient with colours of Cyberpunk Neon!
 
@@ -76,7 +76,7 @@ In the version 30, as Suru++ is compatible with [@Roboron3042](https://github.co
 
 ## Alternative icons
 
-The most of session and user icons were redesigned by [@darcn181](https://github.com/darcn181). In the versions 25 and 30, more and more alternates! You can choose one of your alternates. 
+The most of session and user icons were redesigned by [@darcn181](https://github.com/darcn181). In the versions 25 and 30, more and more new alternative icons! You can choose one of alternatives: 
 
 ### Apps 
 
